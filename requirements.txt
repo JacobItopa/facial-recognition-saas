@@ -1,12 +1,16 @@
+asgiref==3.5.2
 astroid==2.2.5
+auditlog3==1.0.1
 autopep8==1.4.4
 certifi==2019.6.16
 chardet==3.0.4
+colorama==0.4.5
 defusedxml==0.6.0
-Django==2.2.13
+Django==2.2.1
 django-allauth==0.39.1
 django-cors-headers==3.0.2
 django-rest-auth==0.9.5
+django-utils-six==2.0
 djangorestframework==3.9.4
 gunicorn==19.9.0
 idna==2.8
@@ -23,6 +27,7 @@ requests==2.22.0
 requests-oauthlib==1.2.0
 six==1.12.0
 sqlparse==0.3.0
-typed-ast==1.4.0
+typed-ast==1.5.4
+tzdata==2022.2
 urllib3==1.25.3
 wrapt==1.11.2
